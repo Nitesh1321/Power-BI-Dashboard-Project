@@ -1,3 +1,9 @@
-# Power-BI-Dashboard-Project
+# Power-BI-Dashboard-Project:
 
-Description: Analyzed e-commerce sales data and created an interactive dashboard using Power BI.
+ 1. HR Analyatis Dashboard:
+ Description: An interactive HR Analytics Dashboard built in Power BI to visualize employee attrition trends, demographics, and job satisfaction insights for data-driven HR decisions.
+
+ 2. Nitesh E-Commerece Dashboard:
+ Description: An interactive E‑Commerce Sales Dashboard built in Power BI to analyze sales performance, customer behavior, and profitability across categories and regions
+
+
